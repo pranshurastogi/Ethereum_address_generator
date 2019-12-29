@@ -1,0 +1,16 @@
+{
+  "name": "mohit_ethereum_address_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib": "^8.13.2",
+    "bitcore-mnemonic": "^8.13.2",
+    "eth-lightwallet": "^4.0.0"
+  }
+}
